@@ -1,0 +1,5 @@
+qr_content,label
+https://pay.google.com,legitimate
+http://fake-payment.xyz,phishing
+https://example.com/menu,legitimate
+http://scan-win-prize.ru,phishing

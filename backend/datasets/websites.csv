@@ -1,0 +1,5 @@
+url,label
+https://google.com,legitimate
+http://secure-pay-login.xyz,phishing
+https://github.com,legitimate
+http://freegift-login.ru,phishing
